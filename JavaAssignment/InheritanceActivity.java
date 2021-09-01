@@ -1,6 +1,6 @@
 package com.ultramain.um21.salarycalculator;
 
-public class inheritanceActivity {
+public class InheritanceActivity {
 	static Manager manager = new Manager();
 	static Trainee trainee = new Trainee();
 	

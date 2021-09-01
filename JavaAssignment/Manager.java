@@ -1,6 +1,6 @@
 package com.ultramain.um21.salarycalculator;
 
-public class Manager extends employee {
+public class Manager extends Employee {
 
 	protected static double getBasicSalary() {
 		return basicSalary;

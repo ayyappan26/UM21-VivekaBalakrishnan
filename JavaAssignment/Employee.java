@@ -1,6 +1,6 @@
 package com.ultramain.um21.salarycalculator;
 
-public class employee {
+public class Employee {
 	
 	static long employeeId;
 	static String employeeName;
@@ -44,5 +44,6 @@ public class employee {
 		double transportAllowance = 10/100*basicSalary;	
 		return transportAllowance;
 	}
+
 
 }
